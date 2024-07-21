@@ -1,0 +1,50 @@
+{
+  "facets": [
+    {
+      "id": 1,
+      "mapper": "facet1",
+      "provenance_url": "https://example.com/provenance1",
+      "measurement_method": "method1",
+      "observation_period": "period1",
+      "scaling_factor": "factor1",
+      "unit": "unit1"
+    }
+  ],
+  "place_col": 1,
+  "date_col": 2,
+  "var_col_from": 3,
+  "vars": [
+    {
+      "id": 0,
+      "mapper": "Đất sản xuất nông nghiệp",
+      "name": "Chỉ số biến động diện tích đất tự nhiên theo địa phương_Đất sản xuất nông nghiệp",
+      "provenance_id": 11,
+      "definition": "Chỉ số biến động diện tích đất tự nhiên theo địa phương_Đất sản xuất nông nghiệp",
+      "facet": "facet1"
+    },
+    {
+      "id": 0,
+      "mapper": "Đất lâm nghiêp",
+      "name": "Chỉ số biến động diện tích đất tự nhiên theo địa phương_Đất lâm nghiêp",
+      "provenance_id": 11,
+      "definition": "Chỉ số biến động diện tích đất tự nhiên theo địa phương_Đất lâm nghiêp",
+      "facet": "facet1"
+    },
+    {
+      "id": 0,
+      "mapper": "Đất chuyên dùng",
+      "name": "Chỉ số biến động diện tích đất tự nhiên theo địa phương_Đất chuyên dùng",
+      "provenance_id": 11,
+      "definition": "Chỉ số biến động diện tích đất tự nhiên theo địa phương_Đất chuyên dùng",
+      "facet": "facet1"
+    },
+    {
+      "id": 0,
+      "mapper": "Đất ở",
+      "name": "Chỉ số biến động diện tích đất tự nhiên theo địa phương_Đất ở",
+      "provenance_id": 11,
+      "definition": "Chỉ số biến động diện tích đất tự nhiên theo địa phương_Đất ở",
+      "facet": "facet1"
+    }
+  ]
+}

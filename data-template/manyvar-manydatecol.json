@@ -1,0 +1,51 @@
+{
+    "facets": [
+        {
+            "id": 1,
+            "mapper": "facet1",
+            "provenance_url": "https://example.com/provenance1",
+            "measurement_method": "method1",
+            "observation_period": "period1",
+            "scaling_factor": "factor1",
+            "unit": "unit1"
+        },
+        {
+            "id": 2,
+            "mapper": "facet2",
+            "provenance_url": "https://example.com/provenance2",
+            "measurement_method": "method2",
+            "observation_period": "period2",
+            "scaling_factor": "factor2",
+            "unit": "unit2"
+        }
+    ],
+    "vars": [
+        {
+            "id": 1,
+            "mapper": "var1",
+            "name": "name1",
+            "provenance_id": 1,
+            "definition": "definition1",
+            "facet": "facet1"
+        },
+        {
+            "id": 2,
+            "mapper": "var2",
+            "name": "name2",
+            "provenance_id": 2,
+            "definition": "definition2",
+            "facet": "facet2"
+        },
+        {
+            "id": 3,
+            "mapper": "var3",
+            "name": "name2",
+            "provenance_id": 2,
+            "definition": "definition2",
+            "facet": "facet2"
+        }
+    ],
+    "place_col": 3,
+    "var_col": 4,
+    "date_col_from": 7
+}

@@ -1,0 +1,42 @@
+{
+  "facets": [
+    {
+      "id": 1,
+      "mapper": "facet1",
+      "provenance_url": "https://example.com/provenance1",
+      "measurement_method": "method1",
+      "observation_period": "period1",
+      "scaling_factor": "factor1",
+      "unit": "unit1"
+    }
+  ],
+  "place_col": 2,
+  "date_col": 1,
+  "var_col_from": 3,
+  "vars": [
+    {
+      "id": 0,
+      "mapper": "Chung",
+      "name": "Tỷ lệ thất nghiệp và thiếu việc làm trong độ tuổi lao động_Chung_Tỷ lệ thất nghiệp",
+      "provenance_id": 15,
+      "definition": "Tỷ lệ thất nghiệp và thiếu việc làm trong độ tuổi lao động_Chung_Tỷ lệ thất nghiệp",
+      "facet": "facet1"
+    },
+    {
+      "id": 0,
+      "mapper": "Nam",
+      "name": "Tỷ lệ thất nghiệp và thiếu việc làm trong độ tuổi lao động_Nam_Tỷ lệ thất nghiệp",
+      "provenance_id": 15,
+      "definition": "Tỷ lệ thất nghiệp và thiếu việc làm trong độ tuổi lao động_Nam_Tỷ lệ thất nghiệp",
+      "facet": "facet1"
+    },
+    {
+      "id": 0,
+      "mapper": "Nữ",
+      "name": "Tỷ lệ thất nghiệp và thiếu việc làm trong độ tuổi lao động_Nữ_Tỷ lệ thất nghiệp",
+      "provenance_id": 15,
+      "definition": "Tỷ lệ thất nghiệp và thiếu việc làm trong độ tuổi lao động_Nữ_Tỷ lệ thất nghiệp",
+      "facet": "facet1"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "facets": [
+    {
+      "id": 1,
+      "mapper": "facet1",
+      "provenance_url": "https://example.com/provenance1",
+      "measurement_method": "method1",
+      "observation_period": "period1",
+      "scaling_factor": "factor1",
+      "unit": "unit1"
+    }
+  ],
+  "place_col": 1,
+  "date_col": 2,
+  "var_col_from": 3,
+  "vars": [
+    {
+      "id": 0,
+      "mapper": "Tổng số",
+      "name": "Diện tích các loại cây trồng_Tổng số_Chỉ số phát triển  Năm trước = 100  - %",
+      "provenance_id": 10,
+      "definition": "Diện tích các loại cây trồng_Tổng số_Chỉ số phát triển  Năm trước = 100  - %",
+      "facet": "facet1"
+    },
+    {
+      "id": 0,
+      "mapper": "Cây hàng năm",
+      "name": "Diện tích các loại cây trồng_Cây hàng năm_Chỉ số phát triển  Năm trước = 100  - %",
+      "provenance_id": 10,
+      "definition": "Diện tích các loại cây trồng_Cây hàng năm_Chỉ số phát triển  Năm trước = 100  - %",
+      "facet": "facet1"
+    },
+    {
+      "id": 0,
+      "mapper": "Cây hàng năm: Cây lương thực có hạt",
+      "name": "Diện tích các loại cây trồng_Cây hàng năm: Cây lương thực có hạt_Chỉ số phát triển  Năm trước = 100  - %",
+      "provenance_id": 10,
+      "definition": "Diện tích các loại cây trồng_Cây hàng năm: Cây lương thực có hạt_Chỉ số phát triển  Năm trước = 100  - %",
+      "facet": "facet1"
+    },
+    {
+      "id": 0,
+      "mapper": "Cây hàng năm: Cây CN hàng năm",
+      "name": "Diện tích các loại cây trồng_Cây hàng năm: Cây CN hàng năm_Chỉ số phát triển  Năm trước = 100  - %",
+      "provenance_id": 10,
+      "definition": "Diện tích các loại cây trồng_Cây hàng năm: Cây CN hàng năm_Chỉ số phát triển  Năm trước = 100  - %",
+      "facet": "facet1"
+    },
+    {
+      "id": 0,
+      "mapper": "Cây lâu năm",
+      "name": "Diện tích các loại cây trồng_Cây lâu năm_Chỉ số phát triển  Năm trước = 100  - %",
+      "provenance_id": 10,
+      "definition": "Diện tích các loại cây trồng_Cây lâu năm_Chỉ số phát triển  Năm trước = 100  - %",
+      "facet": "facet1"
+    },
+    {
+      "id": 0,
+      "mapper": "Cây lâu năm: Cây CN lâu năm",
+      "name": "Diện tích các loại cây trồng_Cây lâu năm: Cây CN lâu năm_Chỉ số phát triển  Năm trước = 100  - %",
+      "provenance_id": 10,
+      "definition": "Diện tích các loại cây trồng_Cây lâu năm: Cây CN lâu năm_Chỉ số phát triển  Năm trước = 100  - %",
+      "facet": "facet1"
+    },
+    {
+      "id": 0,
+      "mapper": "Cây lâu năm: Cây ăn quả",
+      "name": "Diện tích các loại cây trồng_Cây lâu năm: Cây ăn quả_Chỉ số phát triển  Năm trước = 100  - %",
+      "provenance_id": 10,
+      "definition": "Diện tích các loại cây trồng_Cây lâu năm: Cây ăn quả_Chỉ số phát triển  Năm trước = 100  - %",
+      "facet": "facet1"
+    }
+  ]
+}

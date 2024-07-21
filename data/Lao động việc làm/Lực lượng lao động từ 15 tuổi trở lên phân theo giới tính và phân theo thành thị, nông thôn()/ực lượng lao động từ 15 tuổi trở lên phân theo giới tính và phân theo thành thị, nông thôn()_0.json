@@ -1,0 +1,58 @@
+{
+  "facets": [
+    {
+      "id": 1,
+      "mapper": "facet1",
+      "provenance_url": "https://example.com/provenance1",
+      "measurement_method": "method1",
+      "observation_period": "period1",
+      "scaling_factor": "factor1",
+      "unit": "unit1"
+    }
+  ],
+  "place_col": 1,
+  "date_col": 2,
+  "var_col_from": 3,
+  "vars": [
+    {
+      "id": 0,
+      "mapper": "Tổng số",
+      "name": "Lực lượng lao động từ 15 tuổi trở lên_Tổng số_Cơ cấu %",
+      "provenance_id": 15,
+      "definition": "Lực lượng lao động từ 15 tuổi trở lên_Tổng số_Cơ cấu %",
+      "facet": "facet1"
+    },
+    {
+      "id": 0,
+      "mapper": "Nam",
+      "name": "Lực lượng lao động từ 15 tuổi trở lên_Nam_Cơ cấu %",
+      "provenance_id": 15,
+      "definition": "Lực lượng lao động từ 15 tuổi trở lên_Nam_Cơ cấu %",
+      "facet": "facet1"
+    },
+    {
+      "id": 0,
+      "mapper": "Nữ",
+      "name": "Lực lượng lao động từ 15 tuổi trở lên_Nữ_Cơ cấu %",
+      "provenance_id": 15,
+      "definition": "Lực lượng lao động từ 15 tuổi trở lên_Nữ_Cơ cấu %",
+      "facet": "facet1"
+    },
+    {
+      "id": 0,
+      "mapper": "Thành thị",
+      "name": "Lực lượng lao động từ 15 tuổi trở lên_Thành thị_Cơ cấu %",
+      "provenance_id": 15,
+      "definition": "Lực lượng lao động từ 15 tuổi trở lên_Thành thị_Cơ cấu %",
+      "facet": "facet1"
+    },
+    {
+      "id": 0,
+      "mapper": "Nông thôn",
+      "name": "Lực lượng lao động từ 15 tuổi trở lên_Nông thôn_Cơ cấu %",
+      "provenance_id": 15,
+      "definition": "Lực lượng lao động từ 15 tuổi trở lên_Nông thôn_Cơ cấu %",
+      "facet": "facet1"
+    }
+  ]
+}
